@@ -1,0 +1,56 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "dungeon1.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "C:/Users/kkhoc/PycharmProjects/Game/Jam-master/data/tilesets/world_tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "[Base]BaseChip_pipo.tsx": {
+            "scaleInDock": 1
+        },
+        "asasin.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1640,
+                "y": 432
+            }
+        },
+        "dungeon1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 657.3333333333334,
+                "y": 430.66666666666674
+            }
+        },
+        "world(2).tmx": {
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3481.125,
+                "y": 2089.75
+            }
+        }
+    },
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 40,
+    "openFiles": [
+        "asasin.tmx",
+        "world(2).tmx",
+        "dungeon1.tmx"
+    ],
+    "project": "dungeon_church.tiled-project",
+    "recentFiles": [
+        "asasin.tmx",
+        "world(2).tmx",
+        "dungeon1.tmx"
+    ]
+}
